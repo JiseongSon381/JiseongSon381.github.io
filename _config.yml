@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Jiseong Son"
-  avatar           : "/assets/images/bio-photo.jpg"
+  avatar           : # "/assets/images/bio-photo.jpg"
   bio              : "CSEE/21900381 - 2023OSSL class 1"
   location         : "Handong University"
   email            :
